@@ -21,7 +21,7 @@
         compatible = "zmk,keymap";
 
         base {
-            display-name = "BASE";
+            display-name = "WEEE";
             bindings = <
                 &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &mo 2
                 &kp LCTRL &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
